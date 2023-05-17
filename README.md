@@ -1,4 +1,5 @@
 # Obsidian-Anti-Cheat
+###Introducing Obsidian Anti Cheat: Unleash the Power of Simplicity for Minecraft Bedrock Realms, Worlds, and Servers!
 Importing Dependencies: The script imports various dependencies from the @minecraft/server package, including system, world, DynamicPropertiesDefinition, and MinecraftEnchantmentTypes.
 
 Illegal Items: An array named illegalItems is defined, which contains the identifiers of items that are considered illegal.
