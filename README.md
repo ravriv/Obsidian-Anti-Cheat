@@ -30,7 +30,7 @@ To install OAC on your Minecraft server, follow these steps:
 
 Once installed and configured, OAC works automatically in the background to detect cheating. Admins can use the provided commands to manage the ban list and view banned players. Here are commands:
 
-- `.ban <player>`: Bans a player from the server.
+- `.ban <player>`: Bans a player from the game.
 - `.unban <player>`: Unbans a previously banned player.
 - `.banlist`: Displays the list of banned players.
 
