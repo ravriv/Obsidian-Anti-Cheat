@@ -24,6 +24,7 @@ To install OAC on your Minecraft server, follow these steps:
 3. Activate Cheats
 4. Activate OAC from Behavior pack.
 5. Enable Beta API
+6. Tag yourself as an admin to avoid being detected by the anti-cheat system.
 
 ## Usage
 
