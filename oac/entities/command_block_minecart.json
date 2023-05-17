@@ -1,0 +1,30 @@
+{
+ "format_version": "1.12.0",
+ "minecraft:entity": {
+  "description": {
+   "identifier": "minecraft:command_block_minecart",
+   "is_spawnable": false,
+   "is_summonable": false,
+   "is_experimental": false,
+   "scripts": {
+    "animate": [
+     "exploits"
+    ]
+   },
+   "animations": {
+    "exploits": "controller.animation.exploits"
+   }
+  },
+  "components": {
+   "minecraft:type_family": {
+    "family": [
+     "minecart",
+     "inanimate"
+    ]
+   },
+   "minecraft:instant_despawn": {
+    "remove_child_entities": true
+   }
+  }
+ }
+}

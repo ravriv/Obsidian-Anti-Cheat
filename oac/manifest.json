@@ -1,0 +1,52 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§d§l§´Obsidian Anti Cheat",
+        "description": "§7§´Behavior pack",
+        "uuid": "a936efa2-b925-9169-48f8-807ea620a0a1",
+        "version": [
+            1,
+            1,
+            4
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "d90c1e39-57a1-9488-85e7-ac0a25c50e37",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "0e365d5e-2fd5-d020-9d06-0de152d6a95b",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/index.js"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "ravriv"
+        ],
+        "url": "https://github.com/ravriv/Obsidian-Anti-Cheat"
+    },
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.2.0-beta"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+ "format_version": "1.13.0",
+ "minecraft:entity": {
+  "description": {
+   "identifier": "minecraft:npc",
+   "is_spawnable": false,
+   "is_summonable": false,
+   "is_experimental": false,
+   "scripts": {
+    "animate": [
+     "exploits"
+    ]
+   },
+   "animations": {
+    "exploits": "controller.animation.exploits"
+   }
+  },
+  "component_groups": {},
+  "components": {
+   "minecraft:instant_despawn": {
+    "remove_child_entities": true
+   }
+  }
+ }
+}
