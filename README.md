@@ -36,5 +36,5 @@ Once installed and configured, OAC works automatically in the background to dete
 
 ## Credits
 
-OAC was developed by [ravriv] and supported by [DeathSinger]. We would like to thank the Minecraft community for their support and feedback.
+OAC was developed by [ravriv]. I would like to thank the Minecraft community for their support and feedback.
 
