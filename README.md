@@ -12,7 +12,7 @@ Obsidian Anti Cheat (OAC) is a Simple designed to prevent cheating and enforce f
 - Detection of illegal items: OAC scans players' inventories for illegal items such as MovingBlock, Beehive, or items with prohibited enchantments. It also includes the ability to scan containers, such as chests or shulker box, for illegal items.
 - Enchantment validation: OAC checks if enchantments on items exceed their maximum level or have invalid values.
 - Entity control: OAC prevents the spawning of specific entities, such as command block minecarts, NPCs, and withers, to maintain server integrity.
-- Nuker detection: OAC Anti Nuker feature. It can detect and prevent players from breaking blocks too quickly or using techniques like nuker hacks to break multiple blocks simultaneously.
+- Nuker detection: It can detect and prevent players from breaking blocks too quickly or using techniques like nuker hacks to break multiple blocks simultaneously.
 - Ban list management: OAC maintains a ban list of players who have been caught cheating and automatically bans them from the server.
 - Admin commands: OAC provides admin commands to manage the ban list, view banned players, and perform other administrative tasks.
 - Entity control: OAC prevents the spawning of specific entities, such as command block minecarts, NPCs, and withers, to maintain server integrity.
