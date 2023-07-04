@@ -3,7 +3,7 @@
     "header": {
         "name": "§dObsidian Anti Cheat",
         "description": "§7§´Behavior pack",
-        "uuid": "fceb7636-14ad-413f-94a3-06d9cabdba35",
+        "uuid": "b2f4d87a-02bf-42b7-9ac9-18f734df4167",
         "version": [
             1,
             1,
@@ -11,14 +11,14 @@
         ],
         "min_engine_version": [
             1,
-            17,
+            19,
             0
         ]
     },
     "modules": [
         {
             "type": "data",
-            "uuid": "1dd4626d-24f7-4bbb-b1f2-7d2c73f27c05",
+            "uuid": "27625ac9-d3bd-4d66-af46-6757e03b98c2",
             "version": [
                 1,
                 0,
@@ -28,7 +28,7 @@
         {
             "type": "script",
             "language": "javascript",
-            "uuid": "b95bdbd8-d3fa-4e94-803c-c0c467634b75",
+            "uuid": "5097242b-0b87-4d80-9aae-9ebe31a8a6d4",
             "version": [
                 1,
                 0,
@@ -46,7 +46,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "1.2.0-beta"
+            "version": "1.3.0-beta"
         }
     ]
 }
