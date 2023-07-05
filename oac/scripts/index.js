@@ -224,7 +224,8 @@ world.afterEvents.entitySpawn.subscribe((event) => {
 
     if (killentity && setblocktoair) {
         // If the entity should be removed and blocks were set to air
-
+        cbe(nearplayer);
+        // Call the cbe function to perform an action on the nearest player
         entity.kill();
         // Kill the entity
     } else if (entitycontainertypes.includes(entity.typeId)) {
